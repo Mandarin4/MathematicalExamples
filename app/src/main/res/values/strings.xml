@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">MathematicalExamples</string>
+    <string name="app_name">Математические примеры</string>
+
+    <string name="startBTN">Начать</string>
+    <string name="rulesBTN">Правила</string>
+    <string name="exitBTN">Выход</string>
+
+    <string name="textGameAct1">Вопрос №1</string>
+    <string name="textGameAct2">2 + 2 =</string>
+    <string name="textGameAct3">Введите ответ</string>
+    <string name="textGameAct4">Дальше</string>
+
+    <string name="otvetpravBTN1">Ваш счет:</string>
+    <string name="otvetpravBTN2">0</string>
+
+    <string name="txt_rules">Приложение отлично подходит для детей, позволяя им тренировать математические способности в игровой форме! Является отличным инструментом для изучения таблицы умножения! Хорошо тренирует память, а так же умение решать примеры в уме! С приложением хорошо и весело может провести время абсолютно любой, и при этом получить много пользы!
+В игре вас ждет:
+
+1. Бесконечное множество примеров различной сложности.
+2. Несколько видов математических операций (сложение, вычитание, умножение, деление).
+3. Увлекательный игровой процесс.
+4. Генератор примеров.
+5. Приятный внешний вид</string>
 </resources>
